@@ -1,8 +1,8 @@
 # Modecraft Ecommerce Data Analysis Project
-#### Project Overview
+### Project Overview
 For the 6th DubsTech Datathon, we analyzed data from Modecraft, an ecommerce store offering various household items. The company sought insights from both operational and marketing perspectives to guide strategic decisions.
 
-#### Data Description
+### Data Description
 The dataset contained over 500,000 order records with the following columns:
 
 - InvoiceNo (Unique Invoice ID)
@@ -14,7 +14,7 @@ The dataset contained over 500,000 order records with the following columns:
 - CustomerID (Unique Customer ID)
 - Country (Country of origin for the order)
   
-#### Data Cleaning Process
+### Data Cleaning Process
 Our data preparation involved several key steps:
 
 1. __Initial Assessment:__
