@@ -1,8 +1,8 @@
 # Modecraft Ecommerce Data Analysis Project
-### Project Overview
+### 📝 Project Overview
 For the 6th DubsTech Datathon, we analyzed data from Modecraft, an ecommerce store offering various household items. The company sought insights from both operational and marketing perspectives to guide strategic decisions.
 
-### Data Description
+### 📙 Data Description
 The dataset contained over 500,000 order records with the following columns:
 
 - InvoiceNo (Unique Invoice ID)
@@ -14,7 +14,7 @@ The dataset contained over 500,000 order records with the following columns:
 - CustomerID (Unique Customer ID)
 - Country (Country of origin for the order)
   
-### Data Cleaning Process
+### 🗑️ Data Cleaning Process
 Our data preparation involved several key steps:
 
 1. __Initial Assessment:__
@@ -41,3 +41,13 @@ Our data preparation involved several key steps:
 
 - Confirmed all null values were properly addressed
 - Saved the cleaned dataset for further analysis
+
+### 📁 Files in this Repo
+#### retail-data-cleaning.ipynb
+This file contains all the Python code used to clean the data. At the very end of this Python notebook, we exported a cleaned version of the data in the format of a CSV file.
+
+#### seasonal-performance-dashboard.pbix
+This file cannot be viewed directly from GitHub, but it can be downloaded it viewed on the Power BI Desktop app. It contains our "Seasonal Business Performance" dashboard.
+
+### 📊 Canva
+All other links can be found in our Canva [presentation](https://www.canva.com/design/DAGlwVlCVwo/qXdaVok-uXooKnCkfuT6hQ/edit?utm_content=DAGlwVlCVwo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)!
